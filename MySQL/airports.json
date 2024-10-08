@@ -1,0 +1,660 @@
+[
+  {
+    "code": "AKL",
+    "country": "New Zealand",
+    "city": "Auckland",
+    "Latitude": "-37,008",
+    "Longitude": "174,785"
+  },
+  {
+    "code": "AOR",
+    "country": "Malaysia",
+    "city": "Alor Setar",
+    "Latitude": "6,127",
+    "Longitude": "100,357"
+  },
+  {
+    "code": "BBI",
+    "country": "India",
+    "city": "Bhubaneswar",
+    "Latitude": "20,249",
+    "Longitude": "85,818"
+  },
+  {
+    "code": "BDO",
+    "country": "Indonesia",
+    "city": "Bandung",
+    "Latitude": "-6,903",
+    "Longitude": "107,606"
+  },
+  {
+    "code": "BKI",
+    "country": "Malaysia",
+    "city": "Kota Kinabalu",
+    "Latitude": "5,937",
+    "Longitude": "116,051"
+  },
+  {
+    "code": "BLR",
+    "country": "India",
+    "city": "Bengaluru",
+    "Latitude": "13,198",
+    "Longitude": "77,715"
+  },
+  {
+    "code": "BOM",
+    "country": "India",
+    "city": "Mumbai",
+    "Latitude": "19,089",
+    "Longitude": "72,865"
+  },
+  {
+    "code": "BTJ",
+    "country": "Indonesia",
+    "city": "Banda Aceh",
+    "Latitude": "5,553",
+    "Longitude": "95,328"
+  },
+  {
+    "code": "BTU",
+    "country": "Malaysia",
+    "city": "Bintulu",
+    "Latitude": "4,944",
+    "Longitude": "114,928"
+  },
+  {
+    "code": "BWN",
+    "country": "Brunei",
+    "city": "Bandar Seri Begawan",
+    "Latitude": "4,944",
+    "Longitude": "114,928"
+  },
+  {
+    "code": "CAN",
+    "country": "China",
+    "city": "Guangzhou",
+    "Latitude": "23,392",
+    "Longitude": "113,298"
+  },
+  {
+    "code": "CCU",
+    "country": "India",
+    "city": "Kolkata",
+    "Latitude": "22,654",
+    "Longitude": "88,446"
+  },
+  {
+    "code": "CEB",
+    "country": "Philippines",
+    "city": "Cebu",
+    "Latitude": "10,308",
+    "Longitude": "123,981"
+  },
+  {
+    "code": "CGK",
+    "country": "Indonesia",
+    "city": "Jakarta",
+    "Latitude": "-6,125",
+    "Longitude": "106,655"
+  },
+  {
+    "code": "CKG",
+    "country": "China",
+    "city": "Chongqing",
+    "Latitude": "29,719",
+    "Longitude": "106,641"
+  },
+  {
+    "code": "CMB",
+    "country": "Sri Lanka",
+    "city": "Colombo",
+    "Latitude": "7,18",
+    "Longitude": "79,978"
+  },
+  {
+    "code": "CNX",
+    "country": "Thailand",
+    "city": "Chiang Mai",
+    "Latitude": "18,767",
+    "Longitude": "98,981"
+  },
+  {
+    "code": "COK",
+    "country": "India",
+    "city": "Kochi",
+    "Latitude": "10,152",
+    "Longitude": "76,401"
+  },
+  {
+    "code": "CRK",
+    "country": "Philippines",
+    "city": "Clark",
+    "Latitude": "15,184",
+    "Longitude": "120,551"
+  },
+  {
+    "code": "CSX",
+    "country": "China",
+    "city": "Changsha",
+    "Latitude": "28,19",
+    "Longitude": "113,216"
+  },
+  {
+    "code": "CTS",
+    "country": "Japan",
+    "city": "Sapporo",
+    "Latitude": "42,775",
+    "Longitude": "141,692"
+  },
+  {
+    "code": "CTU",
+    "country": "China",
+    "city": "Chengdu",
+    "Latitude": "30,578",
+    "Longitude": "103,946"
+  },
+  {
+    "code": "CXR",
+    "country": "Vietnam",
+    "city": "Nha Trang",
+    "Latitude": "11,989",
+    "Longitude": "109,219"
+  },
+  {
+    "code": "DAC",
+    "country": "Bangladesh",
+    "city": "Dhaka",
+    "Latitude": "23,843",
+    "Longitude": "90,397"
+  },
+  {
+    "code": "DAD",
+    "country": "Vietnam",
+    "city": "Da Nang",
+    "Latitude": "16,043",
+    "Longitude": "108,207"
+  },
+  {
+    "code": "DEL",
+    "country": "India",
+    "city": "New Delhi",
+    "Latitude": "28,556",
+    "Longitude": "77,1"
+  },
+  {
+    "code": "DMK",
+    "country": "Thailand",
+    "city": "Bangkok",
+    "Latitude": "13,912",
+    "Longitude": "100,609"
+  },
+  {
+    "code": "DPS",
+    "country": "Indonesia",
+    "city": "Denpasar",
+    "Latitude": "-8,748",
+    "Longitude": "115,167"
+  },
+  {
+    "code": "GOI",
+    "country": "India",
+    "city": "Goa",
+    "Latitude": "15,38",
+    "Longitude": "73,831"
+  },
+  {
+    "code": "HAN",
+    "country": "Vietnam",
+    "city": "Hanoi",
+    "Latitude": "21,216",
+    "Longitude": "105,607"
+  },
+  {
+    "code": "HDY",
+    "country": "Thailand",
+    "city": "Hat Yai",
+    "Latitude": "7,02",
+    "Longitude": "100,387"
+  },
+  {
+    "code": "HGH",
+    "country": "China",
+    "city": "Hangzhou",
+    "Latitude": "30,229",
+    "Longitude": "120,433"
+  },
+  {
+    "code": "HKG",
+    "country": "Hong Kong",
+    "city": "Hong Kong",
+    "Latitude": "22,308",
+    "Longitude": "113,914"
+  },
+  {
+    "code": "HKT",
+    "country": "Thailand",
+    "city": "Phuket",
+    "Latitude": "8,113",
+    "Longitude": "98,317"
+  },
+  {
+    "code": "HND",
+    "country": "Japan",
+    "city": "Tokyo",
+    "Latitude": "35,549",
+    "Longitude": "139,779"
+  },
+  {
+    "code": "HYD",
+    "country": "India",
+    "city": "Hyderabad",
+    "Latitude": "17,231",
+    "Longitude": "78,429"
+  },
+  {
+    "code": "ICN",
+    "country": "South Korea",
+    "city": "Incheon",
+    "Latitude": "37,466",
+    "Longitude": "126,441"
+  },
+  {
+    "code": "IKA",
+    "country": "Iran",
+    "city": "Tehran",
+    "Latitude": "35,416",
+    "Longitude": "51,152"
+  },
+  {
+    "code": "JED",
+    "country": "Saudi Arabia",
+    "city": "Jeddah",
+    "Latitude": "21,673",
+    "Longitude": "39,204"
+  },
+  {
+    "code": "JHB",
+    "country": "Malaysia",
+    "city": "Johor Bahru",
+    "Latitude": "1,621",
+    "Longitude": "103,663"
+  },
+  {
+    "code": "JOG",
+    "country": "Indonesia",
+    "city": "Yogyakarta",
+    "Latitude": "-7,782",
+    "Longitude": "110,427"
+  },
+  {
+    "code": "KBR",
+    "country": "Malaysia",
+    "city": "Kota Bharu",
+    "Latitude": "6,138",
+    "Longitude": "102,277"
+  },
+  {
+    "code": "KBV",
+    "country": "Thailand",
+    "city": "Krabi",
+    "Latitude": "8,089",
+    "Longitude": "98,993"
+  },
+  {
+    "code": "KCH",
+    "country": "Malaysia",
+    "city": "Kuching",
+    "Latitude": "1,484",
+    "Longitude": "110,346"
+  },
+  {
+    "code": "KHH",
+    "country": "Taiwan",
+    "city": "Kaohsiung",
+    "Latitude": "22,565",
+    "Longitude": "120,36"
+  },
+  {
+    "code": "KIX",
+    "country": "Japan",
+    "city": "Osaka",
+    "Latitude": "34,434",
+    "Longitude": "135,244"
+  },
+  {
+    "code": "KLO",
+    "country": "Philippines",
+    "city": "Kalibo",
+    "Latitude": "11,709",
+    "Longitude": "122,374"
+  },
+  {
+    "code": "KNO",
+    "country": "Indonesia",
+    "city": "Medan",
+    "Latitude": "3,618",
+    "Longitude": "98,93"
+  },
+  {
+    "code": "KOS",
+    "country": "Cambodia",
+    "city": "Sihanoukville",
+    "Latitude": "10,227",
+    "Longitude": "103,927"
+  },
+  {
+    "code": "KTM",
+    "country": "Nepal",
+    "city": "Kathmandu",
+    "Latitude": "27,696",
+    "Longitude": "85,359"
+  },
+  {
+    "code": "KUL",
+    "country": "Malaysia",
+    "city": "Kuala Lumpur",
+    "Latitude": "2,745",
+    "Longitude": "101,71"
+  },
+  {
+    "code": "KWL",
+    "country": "China",
+    "city": "Guilin",
+    "Latitude": "25,277",
+    "Longitude": "110,082"
+  },
+  {
+    "code": "LBU",
+    "country": "Malaysia",
+    "city": "Labuan",
+    "Latitude": "-8,49",
+    "Longitude": "119,871"
+  },
+  {
+    "code": "LGK",
+    "country": "Malaysia",
+    "city": "Langkawi",
+    "Latitude": "6,316",
+    "Longitude": "99,735"
+  },
+  {
+    "code": "LOP",
+    "country": "Indonesia",
+    "city": "Lombok",
+    "Latitude": "-8,745",
+    "Longitude": "116,295"
+  },
+  {
+    "code": "LPQ",
+    "country": "Laos",
+    "city": "Luang Prabang",
+    "Latitude": "19,887",
+    "Longitude": "102,139"
+  },
+  {
+    "code": "MAA",
+    "country": "India",
+    "city": "Chennai",
+    "Latitude": "13,208",
+    "Longitude": "80,168"
+  },
+  {
+    "code": "MEL",
+    "country": "Australia",
+    "city": "Melbourne",
+    "Latitude": "-37,673",
+    "Longitude": "144,843"
+  },
+  {
+    "code": "MFM",
+    "country": "Macau",
+    "city": "Macau",
+    "Latitude": "22,15",
+    "Longitude": "113,549"
+  },
+  {
+    "code": "MLE",
+    "country": "Maldives",
+    "city": "Malé",
+    "Latitude": "4,191",
+    "Longitude": "73,529"
+  },
+  {
+    "code": "MNL",
+    "country": "Philippines",
+    "city": "Manila",
+    "Latitude": "14,508",
+    "Longitude": "121,019"
+  },
+  {
+    "code": "MRU",
+    "country": "Mauritius",
+    "city": "Port Louis",
+    "Latitude": "-20,432",
+    "Longitude": "57,666"
+  },
+  {
+    "code": "MYY",
+    "country": "Malaysia",
+    "city": "Miri",
+    "Latitude": "4,397",
+    "Longitude": "113,992"
+  },
+  {
+    "code": "NRT",
+    "country": "Japan",
+    "city": "Tokyo",
+    "Latitude": "35,772",
+    "Longitude": "140,386"
+  },
+  {
+    "code": "OOL",
+    "country": "Australia",
+    "city": "Gold Coast",
+    "Latitude": "-28,165",
+    "Longitude": "153,505"
+  },
+  {
+    "code": "PDG",
+    "country": "Indonesia",
+    "city": "Padang",
+    "Latitude": "-0,85",
+    "Longitude": "100,367"
+  },
+  {
+    "code": "PEK",
+    "country": "China",
+    "city": "Beijing",
+    "Latitude": "40,08",
+    "Longitude": "116,584"
+  },
+  {
+    "code": "PEN",
+    "country": "Malaysia",
+    "city": "Penang",
+    "Latitude": "5,291",
+    "Longitude": "100,275"
+  },
+  {
+    "code": "PER",
+    "country": "Australia",
+    "city": "Perth",
+    "Latitude": "-31,94",
+    "Longitude": "115,967"
+  },
+  {
+    "code": "PNH",
+    "country": "Cambodia",
+    "city": "Phnom Penh",
+    "Latitude": "11,547",
+    "Longitude": "104,844"
+  },
+  {
+    "code": "PNK",
+    "country": "Indonesia",
+    "city": "Pontianak",
+    "Latitude": "-0,097",
+    "Longitude": "109,367"
+  },
+  {
+    "code": "PUS",
+    "country": "South Korea",
+    "city": "Busan",
+    "Latitude": "35,179",
+    "Longitude": "128,938"
+  },
+  {
+    "code": "PVG",
+    "country": "China",
+    "city": "Shanghai",
+    "Latitude": "31,143",
+    "Longitude": "121,805"
+  },
+  {
+    "code": "REP",
+    "country": "Cambodia",
+    "city": "Siem Reap",
+    "Latitude": "13,41",
+    "Longitude": "103,855"
+  },
+  {
+    "code": "RGN",
+    "country": "Myanmar",
+    "city": "Yangon",
+    "Latitude": "16,907",
+    "Longitude": "96,134"
+  },
+  {
+    "code": "SBW",
+    "country": "Malaysia",
+    "city": "Sibu",
+    "Latitude": "-10,174",
+    "Longitude": "123,633"
+  },
+  {
+    "code": "SDK",
+    "country": "Malaysia",
+    "city": "Sandakan",
+    "Latitude": "5,844",
+    "Longitude": "118,077"
+  },
+  {
+    "code": "SGN",
+    "country": "Vietnam",
+    "city": "Ho Chi Minh City",
+    "Latitude": "10,818",
+    "Longitude": "106,652"
+  },
+  {
+    "code": "SIN",
+    "country": "Singapore",
+    "city": "Singapore",
+    "Latitude": "1,364",
+    "Longitude": "103,991"
+  },
+  {
+    "code": "SRG",
+    "country": "Indonesia",
+    "city": "Semarang",
+    "Latitude": "-7,005",
+    "Longitude": "110,421"
+  },
+  {
+    "code": "SUB",
+    "country": "Indonesia",
+    "city": "Surabaya",
+    "Latitude": "-7,379",
+    "Longitude": "112,787"
+  },
+  {
+    "code": "SWA",
+    "country": "China",
+    "city": "Shantou",
+    "Latitude": "22,639",
+    "Longitude": "113,81"
+  },
+  {
+    "code": "SYD",
+    "country": "Australia",
+    "city": "Sydney",
+    "Latitude": "-33,932",
+    "Longitude": "151,184"
+  },
+  {
+    "code": "SZX",
+    "country": "China64",
+    "city": "Shenzhen",
+    "Latitude": "22,639",
+    "Longitude": "113,81"
+  },
+  {
+    "code": "TGG",
+    "country": "Malaysia",
+    "city": "Kuala Terengganu",
+    "Latitude": "5,339",
+    "Longitude": "103,061"
+  },
+  {
+    "code": "TPE",
+    "country": "Taiwan",
+    "city": "Taipei",
+    "Latitude": "25,077",
+    "Longitude": "121,233"
+  },
+  {
+    "code": "TRZ",
+    "country": "India",
+    "city": "Tiruchirappalli",
+    "Latitude": "10,785",
+    "Longitude": "78,709"
+  },
+  {
+    "code": "TWU",
+    "country": "Malaysia",
+    "city": "Tawau",
+    "Latitude": "27,556",
+    "Longitude": "91,98"
+  },
+  {
+    "code": "URT",
+    "country": "Thailand",
+    "city": "Surat Thani",
+    "Latitude": "15,233",
+    "Longitude": "104,871"
+  },
+  {
+    "code": "UTP",
+    "country": "Thailand",
+    "city": "U-Tapao (Pattaya)",
+    "Latitude": "12,715",
+    "Longitude": "101,183"
+  },
+  {
+    "code": "VTE",
+    "country": "Laos",
+    "city": "Vientiane",
+    "Latitude": "17,995",
+    "Longitude": "102,588"
+  },
+  {
+    "code": "VTZ",
+    "country": "India",
+    "city": "Visakhapatnam",
+    "Latitude": "17,727",
+    "Longitude": "83,284"
+  },
+  {
+    "code": "WUH",
+    "country": "China",
+    "city": "Wuhan",
+    "Latitude": "30,783",
+    "Longitude": "114,208"
+  },
+  {
+    "code": "XIY",
+    "country": "China",
+    "city": "Xi'an",
+    "Latitude": "34,447",
+    "Longitude": "108,751"
+  }
+]
